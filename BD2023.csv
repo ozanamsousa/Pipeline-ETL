@@ -1,0 +1,19 @@
+ID,Nome,Sobrenome,Suite,Tipo Suite,Descricao Suite,Capacidade,Valor Diaria,Dias Alugados
+1,José,Aparecido,101,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,3
+2,Maria,Joaquina,102,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,2
+3,Felipe,Andreole,103,Premium,"Suite com hidromassagem, ar condicionado, som, TV, sessão de massagem pela manhã",6,3350.00,5
+4,Marcos,Antonio,104,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,6
+5,Felipe,Gusmão,105,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,7
+6,Leticia,Silveira,106,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,10
+7,Silvana,Aparecida,201,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,2
+8,Jhon,Max,202,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,3
+9,Eliete,Oliveira,203,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,1
+10,Matheus,Dias,204,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,1
+11,Arthur,Carvalho,205,Gold,"Suite com hidromassagem, ar condicionado, som, TV, teto panoramico, lareira, sessão de massagem manhã e noite",4,2500.00,2
+12,Artur,Vivas,206,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,1
+13,Juliana,Maria,301,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,2
+14,Gabriela,Souza,302,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,1
+15,Matias,Carvalho,303,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,2
+16,José,Apolinario,304,Luxo,"Suite com hidromassagem, ar condicionado, som, TV",2,1200.00,3
+17,Frederico,Rufino,305,Gold,"Suite com hidromassagem, ar condicionado, som, TV, teto panoramico, lareira, sessão de massagem manhã e noite",4,1200.00,4
+18,Jhow,Carnavaro,306,Premium,"Suite com hidromassagem, ar condicionado, som, TV, sessão de massagem pela manhã",6,3350.00,2

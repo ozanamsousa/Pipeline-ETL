@@ -1,0 +1,182 @@
+[
+    {
+        "ID":1,
+        "Nome":"Jos\u00e9",
+        "Sobrenome":"Aparecido",
+        "Suite":101,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":2,
+        "Nome":"Maria",
+        "Sobrenome":"Joaquina",
+        "Suite":102,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":3,
+        "Nome":"Felipe",
+        "Sobrenome":"Andreole",
+        "Suite":103,
+        "Tipo Suite":"Premium",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV, sess\u00e3o de massagem pela manh\u00e3",
+        "Capacidade":6,
+        "Valor Diaria":3350.0
+    },
+    {
+        "ID":4,
+        "Nome":"Marcos",
+        "Sobrenome":"Antonio",
+        "Suite":104,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":5,
+        "Nome":"Felipe",
+        "Sobrenome":"Gusm\u00e3o",
+        "Suite":105,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":6,
+        "Nome":"Leticia",
+        "Sobrenome":"Silveira",
+        "Suite":106,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":7,
+        "Nome":"Silvana",
+        "Sobrenome":"Aparecida",
+        "Suite":201,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":8,
+        "Nome":"Jhon",
+        "Sobrenome":"Max",
+        "Suite":202,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":9,
+        "Nome":"Eliete",
+        "Sobrenome":"Oliveira",
+        "Suite":203,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":10,
+        "Nome":"Matheus",
+        "Sobrenome":"Dias",
+        "Suite":204,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":11,
+        "Nome":"Arthur",
+        "Sobrenome":"Carvalho",
+        "Suite":205,
+        "Tipo Suite":"Gold",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV, teto panoramico, lareira, sess\u00e3o de massagem manh\u00e3 e noite",
+        "Capacidade":4,
+        "Valor Diaria":2500.0
+    },
+    {
+        "ID":12,
+        "Nome":"Artur",
+        "Sobrenome":"Vivas",
+        "Suite":206,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":13,
+        "Nome":"Juliana",
+        "Sobrenome":"Maria",
+        "Suite":301,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":14,
+        "Nome":"Gabriela",
+        "Sobrenome":"Souza",
+        "Suite":302,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":15,
+        "Nome":"Matias",
+        "Sobrenome":"Carvalho",
+        "Suite":303,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":16,
+        "Nome":"Jos\u00e9",
+        "Sobrenome":"Apolinario",
+        "Suite":304,
+        "Tipo Suite":"Luxo",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV",
+        "Capacidade":2,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":17,
+        "Nome":"Frederico",
+        "Sobrenome":"Rufino",
+        "Suite":305,
+        "Tipo Suite":"Gold",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV, teto panoramico, lareira, sess\u00e3o de massagem manh\u00e3 e noite",
+        "Capacidade":4,
+        "Valor Diaria":1200.0
+    },
+    {
+        "ID":18,
+        "Nome":"Jhow",
+        "Sobrenome":"Carnavaro",
+        "Suite":306,
+        "Tipo Suite":"Premium",
+        "Descricao Suite":"Suite com hidromassagem, ar condicionado, som, TV, sess\u00e3o de massagem pela manh\u00e3",
+        "Capacidade":6,
+        "Valor Diaria":3350.0
+    }
+]
